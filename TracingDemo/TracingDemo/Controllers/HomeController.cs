@@ -12,9 +12,7 @@ namespace TracingDemo.Controllers
         {
             ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
 //f1
-//f2  //f2
-//f3
-//f4			
+
             return View();
         }
 
