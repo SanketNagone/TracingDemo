@@ -142,7 +142,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/26/2017 11:21:02</publishTime>
     </File>
     <File Include="bin/TracingDemo.dll">
-      <publishTime>11/27/2017 00:22:05</publishTime>
+      <publishTime>11/30/2017 18:32:38</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>11/26/2017 11:21:22</publishTime>
@@ -478,7 +478,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/26/2017 11:20:26</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>11/27/2017 00:22:07</publishTime>
+      <publishTime>11/30/2017 18:32:41</publishTime>
     </File>
   </ItemGroup>
 </Project>
