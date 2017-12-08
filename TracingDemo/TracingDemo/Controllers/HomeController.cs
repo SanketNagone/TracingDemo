@@ -12,10 +12,6 @@ namespace TracingDemo.Controllers
         {
             ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
 //f1 feature 1 commit	test
-//f2 XOR-2 commit  test
-//f3 test
-//f4 test
-//f5 test
 
             return View();
         }
